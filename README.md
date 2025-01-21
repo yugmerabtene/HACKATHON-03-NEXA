@@ -1,7 +1,3 @@
-Voici un énoncé global qui englobe ces différentes idées sous forme de challenge technique. Cela peut être adapté en fonction des objectifs pédagogiques ou du niveau des participants. 
-
----
-
 ### **Énoncé du Challenge Technique : Créez une Application Innovante**
 
 **Contexte** :  
