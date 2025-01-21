@@ -87,7 +87,7 @@ Créez une plateforme de microblogging ou un réseau social simplifié, comme Tw
 
 ### **Livrables**  
 1. Code source de l'application (hébergé sur un dépôt Git).  
-2. Documentation expliquant l’installation, les technologies utilisées et les fonctionnalités.
+2. Documentation expliquant l’installation, les technologies utilisées et les fonctionnalités et cahier des charges sur le readme du repo.
 3. Une presentation pertinante sous forme de Canva. 
 4. Une démonstration sur les serveurs de NEXA.
 ### **Déploiement**  
