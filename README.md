@@ -90,6 +90,7 @@ Créez une plateforme de microblogging ou un réseau social simplifié, comme Tw
 2. Documentation expliquant l’installation, les technologies utilisées et les fonctionnalités et cahier des charges sur le readme du repo.
 3. Une presentation pertinante sous forme de Canva. 
 4. Une démonstration sur les serveurs de NEXA.
+   
 ### **Déploiement**  
 1. Déploiement sur les serveurs VPS de NEXA.
 
