@@ -88,13 +88,10 @@ Créez une plateforme de microblogging ou un réseau social simplifié, comme Tw
 ### **Livrables**  
 1. Code source de l'application (hébergé sur un dépôt Git).  
 2. Documentation expliquant l’installation, les technologies utilisées et les fonctionnalités.
-3. Une presentation pertinante. 
+3. Une presentation pertinante sous forme de Canva. 
 4. Une démonstration.  
 
 ---
 
-### **Critères d’Évaluation**  
-1. Fonctionnalités de base opérationnelles.  
-2. Qualité de l’interface utilisateur et expérience utilisateur (UX/UI).  
-3. Structure et maintenabilité du code.  
-4. Originalité ou valeur ajoutée par rapport à des solutions existantes.  
+### **Critères d’Évaluation**    
+A FAIRE (PAS ENCORE FAIT)
