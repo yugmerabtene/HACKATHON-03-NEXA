@@ -92,7 +92,6 @@ Créez une plateforme de microblogging ou un réseau social simplifié, comme Tw
 4. Une démonstration sur les serveurs de NEXA.
 ### **Déploiement**  
 1. Déploiement sur les serveurs VPS de NEXA.
-2.  
 
 ---
 
