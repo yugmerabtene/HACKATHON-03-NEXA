@@ -1,7 +1,3 @@
-Voici une structure détaillée pour votre présentation, basée sur les éléments demandés :
-
----
-
 ## **Présentation du Projet**  
 
 ### **1. Introduction**
