@@ -68,6 +68,9 @@
 - Rappel de bonnes pratiques adoptées (commit messages clairs, revue de code, etc.).  
 
 ---
+## **DEMONSTRATION** 
+- Tester l'application en live 
+---
 
 ## **Rétrospective du Projet  PARTIE MASTER**  
 1. **Travail d'Équipe** :  
