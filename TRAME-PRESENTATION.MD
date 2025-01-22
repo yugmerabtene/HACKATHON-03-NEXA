@@ -58,6 +58,9 @@
    - Explications sur le fonctionnement et la liaison avec le backend.  
 
 ---
+## **Linter de code**
+- Capture d'ecran du Linter utilisé pour visualiser le pourcentage et la qualité du code
+---
 
 ## **Gestion de Version (Versionning)**  
 - Graphique Git montrant les branches, les merges et l’évolution du projet.  
