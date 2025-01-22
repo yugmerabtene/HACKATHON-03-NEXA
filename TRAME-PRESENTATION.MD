@@ -1,4 +1,4 @@
-## **Présentation du Projet**  
+## **Présentation du Projet (AVEC CANVA)**  
 
 ### **1. Introduction**
 - Brève présentation du contexte du projet.  
