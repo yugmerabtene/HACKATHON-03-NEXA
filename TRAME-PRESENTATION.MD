@@ -1,4 +1,4 @@
-##Avant tout mettre la presentation Canva dans le readme du repo de votre projet en PDF##
+### Avant tout mettre la presentation Canva dans le readme du repo de votre projet en PDF
 
 ## **Présentation du Projet (AVEC CANVA) PARTIE MASTER**  
 
