@@ -1,3 +1,4 @@
+### PRESENTATION 15 MINUTES - DEMO ET QUESTIONS 5 MINUTES = 20 MINUTES EN TOUT
 ### Avant tout mettre la presentation Canva dans le readme du repo de votre projet en PDF
 
 ## **Présentation du Projet (AVEC CANVA) PARTIE MASTER**  
